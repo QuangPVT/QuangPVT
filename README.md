@@ -15,6 +15,20 @@ In the short term, I am focused on acquiring hands-on experience and honing my s
 - Proficient in writing Unit Tests/Mock Tests in Visual Studio
 - Familiarity with Hadoop Ecosystem, Apache Ecosystem, and AWS Ecosystem
 
+## Experience:
+### Backend Design Intern - Anonymous Software HCM
+*June 2023 - August 2023*
+- Collaborated with a team of 8 members in developing customized service websites for a confidential client.
+- Responsible for API development on the Backend team.
+- Applied Agile/Scrum methodology in work management.
+- Designed Entity Relationship Diagram and Use Case Diagram.
+- Developed CRUD API with Swagger.
+- Wrote UnitTests and MockTests for all APIs using an In-Memory Database.
+- Utilized technologies such as HTML, CSS, and Javascript for the Frontend.
+- Employed C#, Entity Framework Code-First, ASP.NET Core, Service/Repository Pattern for the Backend.
+- Managed SQL Server database hosted online with SmarterASP.
+- [Link to Project](https://gitlab.com/raqkun/net01_mock)
+
 ## Certificates:
 1. TOEIC 795 by IIG Viet Nam: (04/2023 - 04/2025)
    [View Certificate](https://drive.google.com/file/d/15TRfAntrsQO56vdjhuNFrwkhK7Ex6_X0/view?usp=sharing)
@@ -28,8 +42,3 @@ In the short term, I am focused on acquiring hands-on experience and honing my s
 - Email: phanvanthachquang@gmail.com
 
 Feel free to reach out for collaborations, opportunities, or just a friendly chat! Let's build a future in software development together.
-
-<!---
-QuangPVT/QuangPVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
